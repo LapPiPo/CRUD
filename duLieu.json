@@ -1,0 +1,161 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Nguyễn Văn A",
+      "class": "10A1",
+      "gpa": 8.5,
+      "grades": [
+        {
+          "subject": "Toán",
+          "score": 9,
+          "comment": "Học tốt",
+          "date": "2024-05-23T08:56:21.618Z",
+          "teacher": "Cô Lan"
+        },
+        {
+          "subject": "Văn",
+          "score": 8,
+          "comment": "Diễn đạt tốt",
+          "date": "2024-05-23T08:56:21.618Z",
+          "teacher": "Thầy Sơn"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Trần Thị B",
+      "class": "10A2",
+      "gpa": 7.8,
+      "grades": [
+        {
+          "subject": "Lý",
+          "score": 7,
+          "comment": "Cần cố gắng hơn",
+          "date": "2024-06-10T10:00:00.000Z",
+          "teacher": "Thầy Quang"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Lê Minh C",
+      "class": "10A1",
+      "gpa": 9.1,
+      "grades": [
+        {
+          "subject": "Hóa",
+          "score": 9,
+          "comment": "Nắm chắc kiến thức",
+          "date": "2024-04-12T09:20:00.000Z",
+          "teacher": "Cô Hồng"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Phạm Thu D",
+      "class": "10A3",
+      "gpa": 6.9,
+      "grades": [
+        {
+          "subject": "Sử",
+          "score": 6,
+          "comment": "Thiếu chi tiết",
+          "date": "2024-03-22T13:00:00.000Z",
+          "teacher": "Thầy Lộc"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Đỗ Quốc E",
+      "class": "10A1",
+      "gpa": 8.2,
+      "grades": [
+        {
+          "subject": "Địa",
+          "score": 8,
+          "comment": "Trình bày rõ ràng",
+          "date": "2024-05-05T08:30:00.000Z",
+          "teacher": "Cô Trâm"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Ngô Thị F",
+      "class": "10A2",
+      "gpa": 9.4,
+      "grades": [
+        {
+          "subject": "Anh",
+          "score": 10,
+          "comment": "Phát âm tốt",
+          "date": "2024-05-18T11:45:00.000Z",
+          "teacher": "Cô My"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Vũ Văn G",
+      "class": "10A4",
+      "gpa": 5.6,
+      "grades": [
+        {
+          "subject": "Toán",
+          "score": 5,
+          "comment": "Chưa nắm bài",
+          "date": "2024-05-01T07:15:00.000Z",
+          "teacher": "Thầy Phúc"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Lý Thị H",
+      "class": "10A3",
+      "gpa": 7,
+      "grades": [
+        {
+          "subject": "Sinh",
+          "score": 7,
+          "comment": "Cần thêm ví dụ",
+          "date": "2024-06-05T14:00:00.000Z",
+          "teacher": "Cô Duyên"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Bùi Quốc I",
+      "class": "10A2",
+      "gpa": 8,
+      "grades": [
+        {
+          "subject": "GDCD",
+          "score": 8,
+          "comment": "Hiểu bài rõ",
+          "date": "2024-06-12T10:10:00.000Z",
+          "teacher": "Thầy Nam"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Tạ Thị K",
+      "class": "10A1",
+      "gpa": 9,
+      "grades": [
+        {
+          "subject": "Văn",
+          "score": 9,
+          "comment": "Biết cảm nhận sâu sắc",
+          "date": "2024-05-27T09:00:00.000Z",
+          "teacher": "Cô Hạnh"
+        }
+      ]
+    }
+  ]
+}

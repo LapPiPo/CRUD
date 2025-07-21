@@ -1,0 +1,24 @@
+.head{
+    display: flex;
+}
+.list{
+    display: flex;
+    border: 1px solid #2b2929;
+}
+.body{
+
+    display: flex;
+}
+
+.name, .class, .gpa, h4, select, input{
+    width:250px;
+    margin:5px;
+    text-align: start;
+}
+.grades-score{
+
+
+}
+.grades-score h4, .grades-score span {
+    width: 100%;
+}
